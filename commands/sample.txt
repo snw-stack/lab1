@@ -1,0 +1,15 @@
+Linux is an operating system.
+linux shell programming
+Hello Linux
+ERROR: file not found
+WARNING: low memory
+user01
+user123
+admin
+apple
+application
+file.txt
+fileXtxt
+2026-10-13
+12345
+

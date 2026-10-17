@@ -1,0 +1,4 @@
+Ubuntu practice
+I study GNU/Linux.
+GNU/Linux commands are useful.
+This line will be deleted.

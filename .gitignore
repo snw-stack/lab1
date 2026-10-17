@@ -1,0 +1,15 @@
+# Object files
+*.o
+
+# Libraries
+*.a
+*.so
+
+# Generated executables
+/calculator/calc_static
+/calculator/calc_shared
+/calculator/calc_dynamic
+
+# Profiling and debugging outputs
+gmon.out
+vgcore.*
