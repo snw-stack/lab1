@@ -2,7 +2,7 @@
 CC = gcc
 AR = ar
 
-CFLAGS = -Wall -Wextra -g -I./lib
+CFLAGS = -Wall -Wextra -g -O0 -I./lib
 
 .PHONY: all clean run-static run-shared run-dynamic
 
